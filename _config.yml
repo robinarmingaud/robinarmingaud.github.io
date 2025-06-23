@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Robin Armingaud"
 title_separator          : "-"
 name                     : &name "Robin Armingaud"
-description              : &description "I'm a research engineer at CEA List, working on large language models (LLMs) for manufacturing applications. My research focuses on adapting LLMs for domain-specific tasks with an emphasis on efficiency, as well as exploring few-shot and zero-shot learning for information extraction. I enjoy tackling real-world problems with LLMs, and I regularly participate in Kaggle competitions and conference evaluation campaigns."
+description              : &description "I am a research engineer at CEA List, working on large language models (LLMs) for manufacturing applications. My research focuses on adapting LLMs for domain-specific tasks with an emphasis on efficiency, as well as exploring few-shot and zero-shot learning for information extraction. I enjoy tackling real-world problems with LLMs, and I regularly participate in Kaggle competitions and conference evaluation campaigns."
 url                      : https://robinarmingaud.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "robinarmingaud/robinarmingaud.github.io"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "robin-armingaud"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
