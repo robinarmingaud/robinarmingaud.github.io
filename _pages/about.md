@@ -25,6 +25,6 @@ I am a research engineer at CEA List, working on large language models (LLMs) fo
 
 - **[2024]** We successfully adapted a **RoBERTa** model for the **manufacturing domain** using curated internet data and advanced data selection strategies, achieving **state-of-the-art** results on internal benchmarks.
 
-- **[2024]** We won **1st place** at the **EvaLLM 2024** challenge, which required extracting entities from just **four training examples**. Our winning approach combined **GLiNER**, **synthetic data generation with a Mistral model**, and **majority voting** for robust performance.
+- **[2024]** We won **1st place** at the **EvaLLM 2024** challenge, which required extracting entities from just **four training examples**. Our winning approach combined **GLiNER**, **synthetic data generation with a Mistral model**, and **majority voting** for robust performance. Read it here: [CEA-List@EvalLLM2024](https://hal.science/hal-04678063v1/document)
 
 - **[2024]** Participation in the [LLM Prompt Recovery](https://www.kaggle.com/competitions/llm-prompt-recovery) Kaggle competition. Our solution combined **DeBERTa classifiers** for template filling, a **fine-tuned T5** model trained on synthetic data, and a **prompted Mistral-7B** model to generate candidate prompts. A final **judge model** selected the best candidate.
