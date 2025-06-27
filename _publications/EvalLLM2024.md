@@ -7,4 +7,4 @@ excerpt: 'The EvalLLM2024 challenge aims to evaluate the results of few-shot app
 date: 2024-07-08
 venue: 'EvalLLM2024 '
 paperurl: 'https://hal.science/hal-04678063/'
-
+---

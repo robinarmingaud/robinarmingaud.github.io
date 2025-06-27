@@ -7,4 +7,4 @@ excerpt: 'This work adapts the GLiNER model for document-level relation extracti
 date: 2025-01-28
 venue: 'EGC - Atelier TextMine'
 paperurl: 'https://hal.science/hal-04918406/'
-
+---
