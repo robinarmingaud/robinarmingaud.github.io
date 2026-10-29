@@ -11,6 +11,16 @@ I am a research engineer at CEA List, working on large language models (LLMs) fo
 
 ## News
 
+- **[2026]** Our team won 1st place in the **EvalLLM 2026** challenge, for the third consecutive year! This edition focused on entity linking to MeSH and GeoNames, and our solution is an agentic system combining an LLM with keyword and semantic search tools, plus fine-tuned bi-encoders and rerankers. Code: [evalllm2026-distrib](https://github.com/cea-list-lasti/evalllm2026-distrib)
+
+- **[2026]** Fun side project: **Jean-François 2B**, a small decision model that scores options for a text (and an optional image). Try it here: [Jean-François 2B](https://huggingface.co/spaces/rarmingaud/jean-francois-2b)
+
+- **[2026]** Our paper evaluating a generalist bi-encoder model for document-level relation extraction in low-data settings was presented at **TALN 2026** in Nantes: [TALN 2026](https://hal.science/hal-05708353/)
+
+- **[2026]** **ManufactuBERT** was published at **LREC 2026**: [ManufactuBERT](https://aclanthology.org/2026.lrec-1.827/)
+
+- **[2026]** **GLiDRE** was published at **ICDAR**: [GLiDRE](https://arxiv.org/abs/2508.00757)
+
 - **[2025]** We published a preprint on **ManufactuBERT**, a RoBERTa encoder continually pretrained on a large-scale corpus curated for the manufacturing domain: [ManufactuBERT](https://arxiv.org/abs/2511.05135)
 
 - **[2025]** Our team won 1st place for the second consecutive year in the **EvalLLM 2025** competition. Our participation paper is available here: [EvalLLM 2025](https://hal.science/hal-05378077/). This work was presented in Marseille, France, in July 2025.
